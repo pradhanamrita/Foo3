@@ -1,2 +1,2 @@
-This is test my other file.
-----------
+This is test my other file and I updated it.
+----------------
